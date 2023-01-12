@@ -1,0 +1,40 @@
+.buto{
+  border-radius: 25px !important;
+  padding: 5px 15px !important;
+}
+.heading{
+  font-size: 45px;
+  font-weight: 600;
+  color: rgba(0, 0, 255, 0.74);
+}
+.about{
+  font-size: 45px;
+  font-weight: 600;
+}
+.urban{
+  font-size: 23px;
+}
+.des{
+  font-size: 18px;
+  text-align: justify;
+}
+.project{
+  font-size: 100px;
+  font-weight: 600;
+}
+.mep{
+  color: rgba(0, 0, 255, 0.74);
+}
+.title{
+  font-size: 30px;
+}
+.enquiry{
+  font-size: 25px;
+  color: rgba(0, 0, 255, 0.74);
+  font-weight: 600;
+}
+.para{
+  color: rgba(0, 0, 0, 0.676);
+  font-size: 20px;
+  font-weight: 600;
+}
